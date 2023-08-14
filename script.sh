@@ -2,7 +2,7 @@
 
 # Update system packages
 sudo apt update
-sudo apt upgrade -y
+#sudo apt upgrade -y
 
 # Install Java (OpenJDK 11 in this example)
 sudo apt install openjdk-11-jdk -y
